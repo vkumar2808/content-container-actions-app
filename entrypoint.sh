@@ -1,3 +1,4 @@
+#/bin/bash
 # make the file executable
 chmod +x entrypoint.sh
 
