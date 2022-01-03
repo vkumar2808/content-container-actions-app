@@ -1,6 +1,6 @@
 #/bin/bash
 # make the file executable
-sudo chmod +x ./entrypoint.sh
+chmod +x entrypoint.sh
 
 #!/bin/sh -l
 
